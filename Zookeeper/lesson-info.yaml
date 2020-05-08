@@ -1,0 +1,7 @@
+type: framework
+content:
+- It can print.
+- Show me an animal!
+- What's inside?
+- Endless care <3
+current_task: 0
